@@ -8,7 +8,7 @@ timezone: Asia/Seoul
 tags:
   - English
   - Reading
-description: Kim Min-sik's Have You Ever Memorized an English Book? is not a new curriculum. It is a dare: pick one easy conversation book and say it until the sentences come out without looking.
+description: "Kim Min-sik's Have You Ever Memorized an English Book? is not a new curriculum. It is a dare: pick one easy conversation book and say it until the sentences come out without looking."
 ---
 
 I read Kim Min-sik's *Have You Ever Memorized an English Book?* (Korean title *영어책 한 권 외워봤니?*, Wisdom House). The title is already the method. It sounds like a dare, and it is. After ten-plus years of school English, most of us still restart from the beginner shelf every January. Kim's claim is that the problem is not the next course. It is that we have never taken one thin conversation book all the way through, out loud, until the sentences live in the mouth.
