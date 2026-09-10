@@ -14,6 +14,9 @@ description: "I am starting an ultralearning project today: memorize Hugh Loftin
 
 I am starting an ultralearning project today, 10 September 2026. The object is one book: Hugh Lofting's *The Story of Doctor Dolittle*. The method is stubborn on purpose. Ten sentences a day, spoken aloud, until the whole story can be said without looking. Six months is the lid. If a day is missed, the book does not get replaced with a new plan. The same ten-sentence rule stays in force until the last chapter is in the mouth.
 
+![Cover of Doctore Dolittle](@/assets/images/dolittle.jpg)
+
+
 The text is free. Project Gutenberg hosts the 1920 book as [ebook no. 501](https://www.gutenberg.org/ebooks/501). I am putting that EPUB into Google Play Books and reading it on the tablet. No shop, no subscription, no new app to babysit the project. The file sits there, and the work is only to say it.
 
 ## Table of contents
