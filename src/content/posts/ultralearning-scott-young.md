@@ -1,83 +1,83 @@
 ---
-title: 스콧 영, 『울트라러닝』 — 혼자 배워야 하는 어른을 위한 책
+title: Scott Young, Ultralearning — a book for adults who have to learn alone
 author: jeong dae yeong
 pubDatetime: 2026-09-10T16:41:00+09:00
 featured: true
 draft: false
 timezone: Asia/Seoul
 tags:
-  - Ultra Learning
+  - Ultralearning
   - Reading
-description: 스콧 영의 『울트라러닝』은 학교를 대신하는 공부법이 아니다. 짧은 시간에, 스스로 설계해서, 실제로 쓸 수 있는 기술을 익히는 법을 말한다.
+description: Scott Young's Ultralearning is not a substitute for school. It is a method for designing, in a short stretch of time, a skill you can actually use.
 ---
 
-스콧 영의 『울트라러닝』(원제 *Ultralearning*, 이한이 옮김, 비즈니스북스)을 읽었다. 한국어판 부제는 "세계 0.1%가 지식을 얻는 비밀"인데, 이 문장만 보면 무슨 천재들의 비법서 같지만 실제 내용은 훨씬 건조하다. 이미 일을 하고 있는 사람이 학교 밖에서 필요한 기술을 빠르게 자기 것으로 만드는 방법을 정리한 책이다.
+I read Scott Young's *Ultralearning*. The marketing copy makes it sound like a secret handbook for geniuses. The book itself is much drier than that. It is a method for people already at work, who need to pick up a useful skill outside school and make it their own, fast.
 
-![스콧 영, 울트라러닝 표지](@/assets/images/ultralearning.jpg)
+![Cover of Scott Young's Ultralearning](@/assets/images/ultralearning.jpg)
 
-저자의 유명한 실험은 이렇다. MIT 컴퓨터과학 학부 과정을 학교에 다니지 않고 공개 강의와 과제만으로 1년 안에 끝냈고, 그다음 해에는 영어를 쓰지 않는 나라들을 돌며 언어를 배웠다. 책은 이 무용담 자체를 팔지는 않는다. 대신 그런 프로젝트를 가능하게 한 공통의 학습 습관을 아홉 가지로 추려낸다.
+Young's famous experiments go like this. He completed MIT's undergraduate computer science curriculum in a year without attending the school, using open lectures and assignments. The next year he traveled through countries where English was not spoken and learned the local languages. The book does not sell those stunts. It extracts the shared learning habits that made projects like that possible, and boils them down to nine principles.
 
 ## Table of contents
 
-## 울트라러닝이 뭔데
+## What ultralearning actually is
 
-한 줄로 말하면, 자기 주도로 짧은 기간에 힘을 모아 이름 붙일 수 있는 기술을 익히는 학습이다. 세 부분을 풀어보면 이게 어떤 학습을 말하는지 좀 더 분명해진다.
+In one sentence: self-directed learning, compressed into a short period, aimed at a skill you can name. Unpacked, those three parts become clearer.
 
-- 자기 주도: 커리큘럼을 학교가 정해주지 않는다. 무엇을, 어떤 순서로, 어디까지 할지 내가 정한다.
-- 짧은 기간에 힘을 모은다: "언젠가는 배워야지" 하며 3년에 걸쳐 흘려보내지 않는다. 몇 주, 몇 달로 시간을 몰아넣는다.
-- 이름 붙일 수 있는 기술: "더 똑똑해지고 싶다"는 목표가 아니다. "회의에서 영어로 막히지 않고 말한다", "엑셀 대신 파이썬으로 데이터를 뽑는다", "발표를 30분 동안 혼자 이끈다"처럼 끝나는 지점이 눈에 보여야 한다.
+- Self-directed: school does not set the curriculum. You decide what to learn, in what order, and how far to go.
+- Compressed: you do not leak the work across three years of "I should learn this someday." You pile the hours into weeks or months.
+- A skill you can name: "I want to get smarter" is not a goal. "I can speak in a meeting without stalling," "I can pull the data in Python instead of Excel," "I can run a thirty-minute presentation alone" — the finish line has to be visible.
 
-어른에게 이 정의가 쓸모 있는 이유는 단순하다. 직장과 생활에는 학기가 없기 때문이다. 승진, 이직, 도구의 교체, 새로운 역할은 시험 날짜를 기다려주지 않는다. 강의 하나 더 듣는 걸로는 모자라고, 유튜브를 틀어놓는다고 실력이 되지도 않는다. 울트라러닝은 그 빈칸을 메우는 설계도에 가깝다.
+This definition is useful for adults for a simple reason: work and life have no semesters. Promotions, job changes, new tools, and new roles do not wait for exam day. One more lecture is not enough, and leaving YouTube on in the background does not become skill. Ultralearning is closer to a blueprint for that gap.
 
-## 이 책이 먼저 깨는 오해
+## The misconceptions it breaks first
 
-많이 읽으면 는다. 밑줄을 많이 그으면 남는다. 좋은 강의를 찾으면 해결된다. 스콧 영은 이 세 가지를 거의 전부 의심한다.
+Read more and you will improve. Highlight more and it will stick. Find a good course and the problem is solved. Young doubts almost all of this.
 
-학습이란 정보를 머리에 넣는 일이 아니라, 나중에 그 정보를 꺼낼 수 있게 만드는 일이라는 게 그의 관점이다. 그래서 책은 편한 공부보다 어색한 연습을 권한다. 언어를 배운다면 문법책보다 대화를, 코딩을 배운다면 강의보다 실제로 작동하는 프로그램을, 발표를 배운다면 슬라이드 다듬기보다 사람 앞에서 말해보는 쪽을 먼저 두라는 것이다.
+His view is that learning is not putting information into your head. It is making sure you can pull that information back out later. So the book prefers awkward practice to comfortable study. If you are learning a language, conversation comes before the grammar book. If you are learning to code, a program that actually runs comes before another lecture. If you are learning to present, speaking in front of people comes before polishing slides.
 
-그렇다고 극단적인 프로젝트만 울트라러닝인 것도 아니다. 퇴근 후 하루 한 시간씩 여덟 주를 들이는 것도 충분히 프로젝트다. 강도는 시간의 총량이 아니라 그 시간이 실제 목표를 향해 얼마나 곧게 쓰이는지로 재는 편이 맞다.
+That does not mean only extreme projects count as ultralearning. One hour after work for eight weeks is already a project. Intensity is not the total number of hours. It is how straight those hours run toward the actual goal.
 
-## 아홉 가지 법칙, 일상어로
+## The nine principles, in ordinary language
 
-책은 법칙을 아홉 개로 나눈다. 순서대로 외울 필요는 없고, 어른의 공부에서 자주 빠지는 구멍들이라고 보면 이해가 빠르다.
+The book splits the method into nine principles. You do not need to memorize them in order. Think of them as the holes that adult learning keeps falling into.
 
-**1. 메타학습 — 공부하기 전에 공부하는 법부터 조사한다.**
-엑셀도 모르는 상태에서 파이썬 책부터 사지 않는다. 그 기술을 이미 익힌 사람들이 무엇을 먼저 했는지, 어떤 교재가 실제 업무와 가까운지, 사람들이 어디서 자주 막히는지를 먼저 적어본다. 지도 없이 달리는 건 사실 바쁜 척에 가깝다.
+**1. Metalearning — research how to learn before you start learning.**
+Do not buy a Python book while you still do not know Excel. First write down what people who already have the skill did first, which materials sit close to real work, and where people usually get stuck. Running without a map is often just a performance of being busy.
 
-**2. 집중 — 시간이 아니라 주의를 확보한다.**
-하루 두 시간이 있어도 메신저와 메일이 끼어들면 학습은 조각난다. 핸드폰을 다른 방에 두든 아침 한 블록을 비우든, 방해받지 않는 구간을 만드는 일 자체가 이미 공부의 일부다.
+**2. Focus — protect attention, not hours.**
+Two hours a day still shatter if messenger and email keep cutting in. Putting the phone in another room, or clearing one block in the morning, is already part of the study. An uninterrupted stretch has to be made, not hoped for.
 
-**3. 직접 하기 — 시험 보는 그 방식으로 연습한다.**
-회화가 목표면 회화를 하고, 보고서가 목표면 보고서를 쓴다. 강의를 듣거나 요약하거나 필기하는, 비슷하지만 다른 일을 아무리 오래 해도 익숙해질 뿐 목표 기술 자체는 늘지 않는다. 어색하더라도 실제 현장이 곧 교실이다.
+**3. Directness — practice in the way you will be tested.**
+If conversation is the goal, converse. If a report is the goal, write the report. Listening to lectures, summarizing, and taking notes can feel similar, but they are different work. Do them long enough and you only get used to the substitute. The target skill itself does not grow. Awkward as it is, the real setting is the classroom.
 
-**4. 특화 학습 — 약한 한 지점을 따로 뺀다.**
-발표가 안 될 때 발표 전체를 반복하지 않는다. 서론이 약한지, 질문 대응이 약한지, 시간 배분이 약한지를 나눠본 뒤 그 한 조각만 집중적으로 반복한다. 운동으로 치면 폼이 무너지는 동작만 골라서 교정하는 것과 같은 방식이다.
+**4. Drill — pull out the weak piece and work on that.**
+If a presentation fails, do not repeat the whole presentation. Split it: is the opening weak, the Q&A, the timing? Then repeat that one slice. In sports terms, it is correcting the single movement where the form collapses.
 
-**5. 인출 — 다시 읽지 말고 떠올린다.**
-노트를 펼치기 전에 빈 종이부터 채운다. 어제 배운 개념, 함수, 문장을 기억에서 직접 꺼내본다. 막히는 느낌이 드는 그 순간이 실제로 공부가 일어나는 지점이고, 술술 읽히는 복습은 실력이 아니라 그저 친숙함일 때가 많다.
+**5. Retrieval — do not reread. Recall.**
+Fill a blank page before you open the notes. Pull yesterday's concepts, functions, and sentences out of memory. The stuck feeling is where the learning actually happens. Review that reads smoothly is often familiarity, not skill.
 
-**6. 피드백 — 빨리, 구체적으로, 자존심은 빼고 듣는다.**
-혼자만 보면 뭐가 틀렸는지도 모른다. 동료에게 초안을 보여주고, 원어민에게 녹음을 들려주고, 코드는 직접 돌려본다. 칭찬보다는 "어디가 안 되는지"가 훨씬 값어치가 크다. 물론 가혹한 평가를 전부 받아들일 필요는 없고, 신호와 소음을 가려내는 것도 하나의 기술이다.
+**6. Feedback — get it fast, make it specific, and leave pride out of it.**
+Alone, you often cannot even see what is wrong. Show a draft to a colleague. Play a recording for a native speaker. Run the code. "Where does this break?" is worth more than praise. You do not have to swallow every harsh comment. Separating signal from noise is a skill of its own.
 
-**7. 유지 — 배운 것을 다시 꺼내 쓰게 만든다.**
-한 달 만에 익히고 반년 뒤 못 쓰면 그건 학습이라 부르기 어렵다. 간격을 두고 다시 보고, 실제 업무에 끼워넣고, 남을 가르쳐봐야 비로소 남는다. 책은 기억을 새는 양동이에 비유하는데, 채우기만 하고 구멍을 막지 않으면 결국 의미가 없다는 얘기다.
+**7. Retention — make yourself use what you learned again.**
+If you pick something up in a month and cannot use it six months later, that is hard to call learning. Space the reviews, put the skill into real work, and try teaching it. The book compares memory to a leaky bucket: filling it without plugging the holes eventually means nothing.
 
-**8. 직관 — 뼈대를 세우기 전에 깊게 판다.**
-용어를 외운 것과 이해한 것은 전혀 다르다. 남에게 설명해보고, 예시를 바꿔보고, "왜 이게 되지?"를 끝까지 물어야 한다. 겉으로 아는 척이 통하는 순간 공부는 거기서 멈춘다.
+**8. Intuition — dig deep before you build the frame.**
+Memorizing terms and understanding them are not the same thing. Explain it to someone else. Change the example. Keep asking "why does this work?" The moment a surface impression of knowing is enough, the learning stops.
 
-**9. 실험 — 익숙한 방법 밖으로 나간다.**
-앞의 여덟 가지는 어디까지나 출발점이다. 어느 정도 익숙해지면 교재를 바꾸고, 순서를 뒤집고, 더 어려운 상대와 연습해야 한다. 숙련될수록 같은 루틴이 편해지지만, 성장은 딱 거기서 멈춰버린다.
+**9. Experimentation — step outside the method that already feels comfortable.**
+The first eight principles are only a starting point. Once you are somewhat fluent, change the material, reverse the order, and practice against a harder opponent. The more skilled you become, the more comfortable the same routine feels. Growth stops right there.
 
-## 어른이 이 책을 읽는 이유
+## Why an adult should read this
 
-학창 시절의 공부는 시험이 대신 설계해줬다. 범위가 있었고, 날짜가 있었고, 채점이 있었다. 지금은 범위도 채점도 내가 직접 만들어야 한다. 이 설계를 하지 않으면 학습은 그냥 소비된다. 출퇴근길에 흘려듣는 강의, 주말에 사둔 자기계발서, "나중에 써먹어야지" 하며 쌓아둔 북마크들처럼.
+Schoolwork was designed by the exam. There was a range, a date, and a score. Now you have to invent the range and the scoring yourself. Without that design, learning turns into consumption: lectures half-heard on the commute, self-help books bought on the weekend, bookmarks saved for "later."
 
-울트라러닝은 이 소비를 프로젝트로 바꿔놓는다. 기간을 정하고, 산출물을 정하고, 연습 방법을 정한다. 1년짜리 MIT 프로젝트일 필요는 없다. 여덟 주 동안 업무에 쓰는 영어 메일만 따로 빼서 다듬는 것도, 한 달 동안 팀 데이터 요청을 코드로 처리해보는 것도 결국 같은 문법을 따른다.
+Ultralearning turns that consumption into a project. You set a period, an output, and a method of practice. It does not have to be a year-long MIT challenge. Spending eight weeks rewriting only the English emails you send at work, or spending a month handling the team's data requests in code, follows the same grammar.
 
-책이 반복해서 하는 경고도 어른에게 그대로 해당한다. 이 방법은 공짜가 아니다. 불편한 연습, 틀린 채로 노출되는 순간, 집중을 위해 다른 일을 밀어내는 선택이 따라붙는다. 그 대가를 치를 준비가 안 되어 있다면, 이 책은 그냥 좋은 문장의 모음으로 끝나버릴 것이다.
+The warning the book keeps repeating applies to adults as well. This method is not free. Uncomfortable practice, being seen while you are still wrong, and pushing other work aside so you can concentrate all come with it. If you are not ready to pay that cost, the book will end as a collection of good sentences.
 
-## 읽고 나서 남는 것
+## What remains after reading
 
-『울트라러닝』은 동기부여 책이 아니고 재능 예찬도 아니다. 학습을 설계 문제로 보는 책이다. 무엇을 배울지, 어디서 연습할지, 어떻게 확인할지를 내가 쥐는 순간, 학교 밖의 시간도 하나의 커리큘럼이 된다.
+*Ultralearning* is not a motivational book, and it is not a hymn to talent. It treats learning as a design problem. The moment you take hold of what to learn, where to practice, and how to check, time outside school becomes a curriculum of its own.
 
-다음 행동이 거창할 필요는 없다. 지금 업무에서 막히는 기술 하나를 고르고, 끝나는 모습을 한 문장으로 적고, 그걸 직접 연습할 방법을 하나 정하면 된다. 이 세 줄만 있어도 이미 첫 프로젝트는 시작된 셈이다.
+The next action does not have to be large. Pick one skill that currently blocks your work. Write, in one sentence, what "done" looks like. Choose one way to practice it directly. Those three lines are already the start of the first project.
