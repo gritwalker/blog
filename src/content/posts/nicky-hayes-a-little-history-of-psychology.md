@@ -1,7 +1,7 @@
 ---
 title: 파운데이션 노트 01 — 니키 헤이즈, 『심리학의 역사』
 author: jeong dae yeong
-pubDatetime: 2026-09-10T16:10:00+09:00
+pubDatetime: 2026-09-10T15:10:00+09:00
 slug: nicky-hayes-a-little-history-of-psychology
 featured: false
 draft: false
