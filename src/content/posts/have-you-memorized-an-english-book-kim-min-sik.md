@@ -13,7 +13,7 @@ description: Kim Min-sik's Have You Ever Memorized an English Book? is not a new
 
 I read Kim Min-sik's *Have You Ever Memorized an English Book?* (Korean title *영어책 한 권 외워봤니?*, Wisdom House). The title is already the method. It sounds like a dare, and it is. After ten-plus years of school English, most of us still restart from the beginner shelf every January. Kim's claim is that the problem is not the next course. It is that we have never taken one thin conversation book all the way through, out loud, until the sentences live in the mouth.
 
-![Cover](@/assets/images/english_book_1.jpg)
+![Cover](@/assets/images/english_book_1.png)
 
 
 Kim is not an English teacher. He is a former MBC sitcom and drama producer who never studied abroad and never sat through a conversation academy. He started by memorizing a middle-school English textbook, later entered a graduate program in interpretation, and spent decades treating English as a private training habit. The book is closer to a self-help argument than a textbook. That is useful to know before you open it. You will not find grammar charts. You will find one stubborn instruction, repeated until it is hard to dodge.
