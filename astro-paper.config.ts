@@ -3,8 +3,8 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
-    title: "배움의 연속성",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
+    title: "Continuity of Learning",
+    description: "Notes on reading and learning.",
     author: "Sat Naing",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
