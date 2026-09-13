@@ -13,6 +13,9 @@ description: "Lee Si-hyung and Park Sang-mi's What Is the Meaning of My Life? is
 
 I read Lee Si-hyung and Park Sang-mi's *What Is the Meaning of My Life?* (Korean title *내 삶의 의미는 무엇인가*, Special Seojae). The title sounds like a late-night question you are slightly embarrassed to say out loud. That is the point. The book is not trying to be original. It is a Korean introduction to Viktor Frankl's logotherapy, written by a psychiatrist who translated *Man's Search for Meaning* and a counselor who used the same ideas to climb out of a depression that had taken her close to the edge.
 
+![Cover of Book](@/assets/images/meaning.jpg)
+
+
 Lee met Frankl's work during the Korean War, later studied at Yale, and sat with Frankl in Vienna in the early 1990s. Park studied in Germany and now teaches meaning-centered counseling; she is also frank about having needed it herself. One voice explains the theory and the Korean clinic. The other turns it into questions you can actually sit with. Together they keep returning to a line Frankl liked to borrow from Nietzsche: if you know why you are living, you can bear almost any how.
 
 The publisher calls this a self-healing guide and a prescription for depression. That is too much. It is a clear popular book about one school of therapy. It will not replace a doctor, and it will not hand you a slogan that fixes a life. What it can do is rename the hollow feeling a lot of adults carry when nothing is obviously wrong and nothing feels worth the trouble.
