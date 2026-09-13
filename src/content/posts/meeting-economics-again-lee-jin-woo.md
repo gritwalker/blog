@@ -13,6 +13,9 @@ description: "Lee Jin-woo's Meeting Economics Again is not a get-rich manual. It
 
 I read Lee Jin-woo's *Meeting Economics Again* (Korean title *나의 두 번째 교과서 X 이진우의 다시 만난 경제*, Page2Books). The full title is longer than it needs to be. The useful half is the first: a second textbook. School economics taught production, consumption, supply and demand, and the duties of a responsible citizen. Adult life is full of other questions. Why does household credit rising by five trillion won not automatically mean the country is about to collapse? Why can a bond pay a fixed coupon and still lose value when rates go up? Why does "save more" fail as a complete theory of getting richer?
 
+![Cover of book](@/assets/images/second.jpg)
+
+
 Lee is a former financial journalist who has spent years explaining the news on MBC radio and on channels such as SamproTV and Understanding. The book grows out of an EBS series. That pedigree shows. The writing is spoken, analogical, and impatient with the high-school table of contents. It is an explainer, not a treatise. That is useful to know before you open it. You will not get a model you can estimate. You will get a map of the financial system an adult actually walks through: money, risk, rates, apartments, debt, crises, growth, and choice.
 
 ## Table of contents
